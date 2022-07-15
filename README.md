@@ -5,3 +5,18 @@
 ```php
 ***
 Entity
+```sh
+Assess
+Assessment System
+Assignment
+Categories
+Class
+Course
+Grade
+Group
+Join
+Lecture
+Student
+Student Group
+View
+```
