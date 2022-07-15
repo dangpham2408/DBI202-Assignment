@@ -5,7 +5,7 @@
 ```php
 ***
 Entity
-```sh
+```
 Assess
 Assessment System
 Assignment
